@@ -1,0 +1,10 @@
+
+
+dependencies {
+    implementation("$boot:spring-boot-starter-web")
+
+    // 다른 프로젝트를 참조하기기
+    // 다른 프로젝트의 객체를 import 없이 불러와서 쓸 수 있음
+   compile project(":comp-common-utils")
+}
+
