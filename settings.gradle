@@ -5,6 +5,9 @@
  *
  * Detailed information about configuring a multi-project build in Gradle can be found
  * in the user manual at https://docs.gradle.org/6.3/userguide/multi_project_builds.html
+ *
+ * https://gitlab.com/jongwons.choi/spring-boot-security-lecture/-/blob/master/part0/1%20gradle%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8%EA%B5%AC%EC%84%B1.md
+ * gradle setting 하는법 링크 참고!
  */
 
 rootProject.name = 'sp-fastcampus-spring-sec'
